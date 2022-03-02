@@ -1,8 +1,5 @@
-from xml.dom.minidom import CharacterData
-
-
 print("Ola, mundo")
-print("Olá, José Henrique")
+print("Olá, Mariana")
 print(1+2)
 
 hrs = int(input("Digite que horas são:"))
@@ -18,3 +15,4 @@ elif num < 0:
 else:
     print("Você digitou um número maior que zero!")
 
+print("Olá, Mariana")
