@@ -1,9 +1,4 @@
-from xml.dom.minidom import CharacterData
-
-
-print("Ola, mundo")
-print("Olá, José Henrique")
-print(1+2)
+print("Olá, Leylane")
 
 hrs = int(input("Digite que horas são:"))
 print("São ",hrs, " horas.")
